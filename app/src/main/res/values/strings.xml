@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Paro</string>
+
+
+    <string-array name="array">
+        <item>mexico</item>
+        <item>otro mexico</item>
+    </string-array>
+</resources>
